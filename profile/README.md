@@ -1,13 +1,14 @@
-## WFP-VAM on GitHub
-Welcome to the WFP VAM and M&E GitHub organization! This GitHub organization houses various projects, tools, and resources developed by our teams to support global development efforts.
+## 🧙 WFP-VAM on GitHub 
+Welcome to the WFP GitHub organization for Research, Assessment and Monitoring! This GitHub organization houses various projects, tools, and resources developed by our teams to support food security, markets and climate analyses for assessment and monitoring purposes.
 
-<!--
+## 🌈 Contributing
+We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file in each repository.
 
-**Here are some ideas to get you started:**
+## 👩‍💻 Contact Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For inquiries or more information about our organization and projects, you can reach out to us at [ wfp.vaminfo@wfp.org](mailto:wfp.vaminfo@wfp.org).
+
+## License
+Unless otherwise specified, all code and content in our repositories are licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) license.
+
+
