@@ -4,6 +4,13 @@ Welcome to the WFP GitHub organization for Research, Assessment and Monitoring! 
 ## 🌈 Contributing
 We welcome contributions from the open source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file in each repository.
 
+
+> [!IMPORTANT]  
+> **FOR WFP STAFF**
+> 
+> Make sure to [setup your account](https://github.com/WFP-VAM/ram-data-science-tools-docs/blob/main/docs/how-to/set-up-github-account.md) and request to be added to the WFP-VAM GitHub organization
+
+
 ## 👩‍💻 Contact Us
 
 For inquiries or more information about our organization and projects, you can reach out to us at [ wfp.vaminfo@wfp.org](mailto:wfp.vaminfo@wfp.org).
