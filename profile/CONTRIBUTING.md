@@ -7,6 +7,53 @@ Thank you for your interest in contributing to our projects. If you're intereste
 > 
 > Make sure to [setup your account](https://github.com/WFP-VAM/ram-data-science-tools-docs/blob/main/docs/how-to/set-up-github-account.md) and request to be added to the WFP-VAM GitHub organization
 
+# GitHub best practices for code collaboration
 
-Projects currently open for contribution:
+> [!NOTE]
+> **WORK IN PROGRESS**
+
+## Getting started
+Make sure you have: 
+- Created a GitHub account
+- Installed Git on your work laptop
+- *(Optional)* Installed GitHub Desktop on your computer laptop.
+
+If you need a refresher on GitHub, review [this guide](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/). [GitHub Docs](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) is also an excellent point to start!
+
+## Best practices
+- In WFP we use git for version control. All code that could ever need to be read by others should be in a shared repository. 
+
+### Do not commit secrets
+- `.gitignore` should be used to prevent adding sensitive, large or unnecessary files to the git index. 
+- Only use git to version plain text files such as code syntax, txt, and csv. Do not commit proprietary file types such as excel, word or STATA files.
+- Use templates for your specific language to simplify your life
+- If you committed files you shouldn't have to, make sure to remove the files and rewrite history using a tool like [git-filter-repo](https://github.com/newren/git-filter-repo)
+- If you made a mistake with Git (we've all been there), [here's how to fix your mistake](https://ohshitgit.com/)
+
+### Contributing to an existing repository
+- All new work should be created in a dedicated feature branch. 
+- Unless you're contributing to a non-WFP project, prefer submit your work via a feature branch in the same repo as the original, instead of forking the repository and pulling a PR from there.
+- Main branches should always be protected to avoid direct commits.
+- The code changes should always be exposed via a PR into main. In all but the most urgent or trivial cases, the PR should be reviewed and approved before merging.
+
+### Branches
+- Make small, logically coherent, frequent commits, with helpful commit messages.
+- Use [conventional commits](https://www.conventionalcommits.org) for your commit messages and branch names
+- [Trunk-based development](https://trunkbaseddevelopment.com/) should be preferred
+
+### Documentation
+- Make sure your repo(s) have a README file with documentation to understand, install and run your projects
+- Make  sure your repo is licensed under the GNU Affero General Public License v3.0 license.
+- *(Optional)* Include a CONTRIBUTING guideline if you would like to attract collaborators
+
+### Versioning
+- Use [Semantic Versioning](https://semver.org/) conventions to version your code version
+- Make sure to tag your code in GitHub
+- Use Releases every time you release a major version of your tools
+
+## Projects currently open for contribution:
 - [RAM Resource Scripts](https://github.com/WFP-VAM/RAMResourcesScripts)
+
+## Resources
+- [Git Best Practices to Start Using in Your Next Commit](https://sourcelevel.io/blog/7-git-best-practices-to-start-using-in-your-next-commit)
+- [Git Commit Best Practices](https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60)
