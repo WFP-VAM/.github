@@ -37,7 +37,7 @@ If you need a refresher on GitHub, review [this guide](https://www.freecodecamp.
 ### Branches
 - Make small, logically coherent, frequent commits, with helpful commit messages.
 - Use [conventional commits](https://www.conventionalcommits.org) for your commit messages and branch names
-- [GitHub Flow]([https://trunkbaseddevelopment.com/](https://docs.github.com/en/get-started/using-github/github-flow)) should be preferred
+- [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) should be preferred
 
 ### Documentation
 - Make sure your repo(s) have a README file with documentation to understand, install and run your projects
