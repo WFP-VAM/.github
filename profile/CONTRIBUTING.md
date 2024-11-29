@@ -28,6 +28,10 @@ If you need a refresher on GitHub, review [this guide](https://www.freecodecamp.
 - If you committed files you shouldn't have to, make sure to remove the files and rewrite history using a tool like [git-filter-repo](https://github.com/newren/git-filter-repo)
 - If you made a mistake with Git (we've all been there), [here's how to fix your mistake](https://ohshitgit.com/)
 
+### Add a license
+- Always add a license in your repo - license define what can be done with your code, including whether it can be modified, redistributed, used for commercial purposes.
+- In WFP, we use (GNU Affero License 3.0)[https://www.gnu.org/licenses/agpl-3.0.en.html]
+
 ### Contributing to an existing repository
 - All new work should be created in a dedicated feature branch. 
 - If you're contributing to a WFP project, prefer submit your work via a feature branch in the same repo as the original, instead of forking the repository and pulling a PR from there. Instead, fork repositories if the project is maintained outside of WFP (e.g. other UN agency, open source library).
