@@ -34,6 +34,10 @@ If you need a refresher on GitHub, review [this guide](https://www.freecodecamp.
 - Main branches should always be protected to avoid direct commits.
 - The code changes should always be exposed via a PR into main. In all but the most urgent or trivial cases, the PR should be reviewed and approved before merging.
 
+### License
+- Always add a license to all your repositories! Licenses define what can and cannot be done with your code, including  redistribution, modification, commercial use etc.
+- In WFP we use [GNU Affero GPL 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
 ### Branches
 - Make small, logically coherent, frequent commits, with helpful commit messages.
 - Use [conventional commits](https://www.conventionalcommits.org) for your commit messages and branch names
