@@ -30,7 +30,7 @@ If you need a refresher on GitHub, review [this guide](https://www.freecodecamp.
 
 ### Contributing to an existing repository
 - All new work should be created in a dedicated feature branch. 
-- Unless you're contributing to a non-WFP project, prefer submit your work via a feature branch in the same repo as the original, instead of forking the repository and pulling a PR from there.
+- If you're contributing to a WFP project, prefer submit your work via a feature branch in the same repo as the original, instead of forking the repository and pulling a PR from there. Instead, fork repositories if the project is maintained outside of WFP (e.g. other UN agency, open source library).
 - Main branches should always be protected to avoid direct commits.
 - The code changes should always be exposed via a PR into main. In all but the most urgent or trivial cases, the PR should be reviewed and approved before merging.
 
