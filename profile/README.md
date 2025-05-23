@@ -8,7 +8,7 @@ We welcome contributions from the open source community. If you're interested in
 > [!IMPORTANT]  
 > **FOR WFP STAFF**
 > 
-> Make sure to [setup your account](https://github.com/WFP-VAM/ram-data-science-tools-docs/blob/main/docs/how-to/set-up-github-account.md) and request to be added to the WFP-VAM GitHub organization
+> Make sure to [setup your account](https://github.com/WFP-VAM/ram-data-science-tools-docs/blob/main/docs/how-to/set-up-github-account.md) and request to be added to the WFP-VAM GitHub organization to one of the repo admins (reach out to APP-RD team)
 
 
 ## 👩‍💻 Contact Us
